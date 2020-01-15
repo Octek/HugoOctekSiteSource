@@ -1,0 +1,42 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Work
+  filter_List :
+    - filter_Type:  MobileApps
+      filter_Title: Mobile Apps
+
+    - filter_Type : WebDevlopment
+      filter_Title : Web Development
+      
+    - filter_Type : Solutions
+      filter_Title : Solutions
+
+
+
+
+  portfolio_Item :
+    - types : ["Solutions","MobileApps"]
+      image : images/portfolio/portfolio-1.jpg
+      URL : https://swyft.delivery/web/en
+      title : Swyft
+      content : You can order anything from any place of your choice, Our riders would bring it for you.
+      
+    - types : ["Solutions","MobileApps"]
+      image : images/portfolio/portfolio-2.jpg
+      URL : https://usepace.com/
+      title : Pace courier
+      content : Pace is a logistics platform that empowers e-commerce providers and enables them to fulll their business.
+      
+    - types : ["MobileApps"]
+      image : images/portfolio/portfolio-3.jpg
+      URL : https://apps.apple.com/us/app/dome-lite/id1468877909
+      title : DomeLite IOS
+      content : Dome Lite allows your store to accept orders from all online aggregators(apps) in your market.
+      
+    - types : ["MobileApps"]
+      image : images/portfolio/portfolio-3.jpg
+      URL : https://play.google.com/store/apps/details?id=com.posdome.lite&hl=en
+      title : DomeLite Android
+      content : Dome Lite allows your store to accept orders from all online aggregators(apps) in your market.
+      

@@ -1,0 +1,24 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_Item :
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : WEB DEVELOPMENT
+      content : We develop web applications in Ruby on Rails & PHP frameworks.
+      
+    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      title : MOBILE DEVELOPMENT
+      content : We have the best minds for IOS, Android and React Native based mobile applications development.
+      
+    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      title : WEB DESIGN
+      content : We have great frontend developers for converting your design into a web.
+      
+    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      title : Logo design
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      title : Dockerization CI/CD and migrtations
+      content : Get your app containerized and speed up the process of deployment.

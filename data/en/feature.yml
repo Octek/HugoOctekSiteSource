@@ -1,0 +1,22 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  title : We’re Software solution providers.
+  content : "In need of solution? You have come to right place."
+  feature_Item : 
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : Web Development
+      content : Scalibilty and opimization is key feature that we always keep in mind.
+
+    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      title : Web design
+      content : Innovation and creativity is what it takes to produce a unique design.
+
+    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      title : Mobile Development
+      content : Responsiveness and optimizied performance.
+      
+    - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      title : Dockerization and migrations
+      content : For your dev ops needs we are there.

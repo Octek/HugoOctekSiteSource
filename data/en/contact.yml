@@ -1,0 +1,21 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  form_Action: "#" #contact form works with https://formspree.io
+  map:
+    enable : true
+    gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyD5FdLE4uYTWLd2jq2Q3UyCFbQPZO5Hm1I&libraries=places"
+    mapLatitude : 31.4720751
+    mapLongitude: 74.3747928
+
+  contact_Details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "2nd floor, 223 Y, DHA phase 3, Lahore, Pakistan."
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +92-42-32171723"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@octek.co"

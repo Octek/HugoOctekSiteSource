@@ -1,0 +1,3 @@
+[submodule "themes/octek-hugo"]
+	path = themes/octek-hugo
+	url = git@github.com:themefisher/meghna-hugo.git
