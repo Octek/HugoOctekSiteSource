@@ -3,7 +3,7 @@ baseURL = "http://octek.co/"
 title = "Octek"
 theme = "octek-hugo"
 # post pagination
-paginate = "6"
+paginate = "7"
 # post excerpt
 summaryLength = "15"
 # disqus short name
