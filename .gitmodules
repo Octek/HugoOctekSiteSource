@@ -1,3 +1,6 @@
 [submodule "themes/octek-hugo"]
 	path = themes/octek-hugo
 	url = git@github.com:themefisher/meghna-hugo.git
+[submodule "themes/octek-site"]
+	path = themes/octek-site
+	url = git@github.com:themefisher/meghna-hugo.git

@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "http://octek.co/"
 title = "Octek"
-theme = "octek-hugo"
+theme = "octek-site"
 # post pagination
 paginate = "7"
 # post excerpt
