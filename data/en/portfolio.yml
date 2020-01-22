@@ -39,4 +39,45 @@ portfolio:
       URL : https://play.google.com/store/apps/details?id=com.posdome.lite&hl=en
       title : DomeLite Android
       content : Dome Lite allows your store to accept orders from all online aggregators(apps) in your market.
-      
+
+    - types: ["MobileApps"]
+      image: images/portfolio/Corvis1.png
+      URL: https://play.google.com/store/apps/details?id=com.ssasoft.corvisapp.dev&hl=tr
+      title: CORVIS
+      content: A social media app for any other corporate organisations. It includes Voice calls (VOIP), Chat, Directories, Forums and many other features.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/Signinghub.jpg
+      URL: https://play.google.com/store/apps/details?id=com.signinghub&hl=en
+      title: SIGNINGHUB
+      content: SigningHub provides users the ability to prepare and digitally sign business docs with digital signatures, flexible doc workflow, approval & status tracking.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/Meezan.png
+      URL: https://play.google.com/store/apps/details?id=invo8.meezan.mb&hl=en
+      title: Meezan Mobile Banking
+      content: Manage your finances on the move and around the clock with Meezan Bank’s secure Mobile Banking App.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/HungerStation.png
+      URL: https://play.google.com/store/apps/details?id=com.hungerstation.android.web&hl=en
+      title: HungerStation
+      content: Through Hungerstation, you can now order your food anytime, anywhere with just a couple of clicks in Saudi Arabia & Bahrain.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/JSBank.png
+      URL:
+      title: JS Bank (Branchless Banking)
+      content: A branchless banking app for agents of JS bank. They can deposit cash, withdraw cash, pay bills, transfer funds and much more.
+
+    - types: ["WebDevlopment"]
+      image: images/portfolio/YasirERP.jpg
+      URL:
+      title: YASER ERP
+      content: A complete ERP solution, which includes features like HRM, Inventory management, sales invoice and quotation management etc.
+
+    - types: ["WebDevlopment"]
+      image: images/portfolio/Toyota.jpg
+      URL:
+      title: Toyota AirPort
+      content: A website with content management module. Team worked on both front and backend. Main CRM modules are, accounts, Sales team management, reports and much more.
