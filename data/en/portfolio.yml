@@ -17,40 +17,34 @@ portfolio:
 
   portfolio_Item :
     - types : ["Solutions","MobileApps"]
-      image : images/portfolio/portfolio-1.jpg
+      image : images/portfolio/Swyft.jpg
       URL : https://swyft.delivery/web/en
       title : Swyft
       content : You can order anything from any place of your choice, Our riders would bring it for you.
       
+    - types: ["MobileApps"]
+      image: images/portfolio/HungerStation.png
+      URL: https://play.google.com/store/apps/details?id=com.hungerstation.android.web&hl=en
+      title: HungerStation
+      content: Through Hungerstation, you can now order your food anytime, anywhere with just a couple of clicks in Saudi Arabia & Bahrain.
+
+    - types : ["MobileApps"]
+      image : images/portfolio/portfolio-3.jpg
+      URL : https://apps.apple.com/us/app/dome-lite/id1468877909
+      title : DomeLite
+      content : Dome Lite allows your store to accept orders from all online aggregators(apps) in your market.
+
     - types : ["Solutions","MobileApps"]
       image : images/portfolio/portfolio-2.jpg
       URL : https://usepace.com/
       title : Pace courier
       content : Pace is a logistics platform that empowers e-commerce providers and enables them to fulll their business.
-      
-    - types : ["MobileApps"]
-      image : images/portfolio/portfolio-3.jpg
-      URL : https://apps.apple.com/us/app/dome-lite/id1468877909
-      title : DomeLite IOS
-      content : Dome Lite allows your store to accept orders from all online aggregators(apps) in your market.
-      
-    - types : ["MobileApps"]
-      image : images/portfolio/portfolio-3.jpg
-      URL : https://play.google.com/store/apps/details?id=com.posdome.lite&hl=en
-      title : DomeLite Android
-      content : Dome Lite allows your store to accept orders from all online aggregators(apps) in your market.
 
     - types: ["MobileApps"]
-      image: images/portfolio/Corvis1.png
+      image: images/portfolio/Corvis.jpg
       URL: https://play.google.com/store/apps/details?id=com.ssasoft.corvisapp.dev&hl=tr
       title: CORVIS
       content: A social media app for any other corporate organisations. It includes Voice calls (VOIP), Chat, Directories, Forums and many other features.
-
-    - types: ["MobileApps"]
-      image: images/portfolio/Signinghub.jpg
-      URL: https://play.google.com/store/apps/details?id=com.signinghub&hl=en
-      title: SIGNINGHUB
-      content: SigningHub provides users the ability to prepare and digitally sign business docs with digital signatures, flexible doc workflow, approval & status tracking.
 
     - types: ["MobileApps"]
       image: images/portfolio/Meezan.png
@@ -59,10 +53,52 @@ portfolio:
       content: Manage your finances on the move and around the clock with Meezan Bank’s secure Mobile Banking App.
 
     - types: ["MobileApps"]
-      image: images/portfolio/HungerStation.png
-      URL: https://play.google.com/store/apps/details?id=com.hungerstation.android.web&hl=en
-      title: HungerStation
-      content: Through Hungerstation, you can now order your food anytime, anywhere with just a couple of clicks in Saudi Arabia & Bahrain.
+      image: images/portfolio/Signinghub.jpg
+      URL: https://play.google.com/store/apps/details?id=com.signinghub&hl=en
+      title: SIGNINGHUB
+      content: SigningHub provides users the ability to prepare and digitally sign business docs with digital signatures, flexible doc workflow, approval & status tracking.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/commune X.jpg
+      URL: https://apps.apple.com/us/app/3-degrees/id994499025
+      title: commune X
+      content: X is a hyperconnected eco system with the vision to decode humanity’s complex challenges through interdisciplinary collaboration and navigating a transformational journey towards the future.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/Akly.jpg
+      URL: https://apps.apple.com/us/app/akly/id1232219361
+      title: Akly
+      content: Order from restaurants and get the food you love delivered to your doorstep. Choose from on-demand meals or subscribe to ready made plans to achieve your diet goals.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/LiveCoach.jpg
+      URL: https://play.google.com/store/apps/details?id=com.livecoach&hl=en
+      title: LiveCoach
+      content: Your can always get a better life by working with a good coach who can help you reach your goals more quickly. LiveCoach will match you up with the best coach for the job.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/FitTraction.jpg
+      URL: https://apps.apple.com/us/app/fittraction/id1258957259
+      title: FitTraction
+      content: Through Fittraction, you can get knowledge and accountability from a personal trainer easier than ever before by tracking your workouts and staying in touch with him.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/My Omer.jpg
+      URL: https://apps.apple.com/us/app/my-omer/id623310775
+      title: My Omer
+      content: Get daily insights and exercises for the 49 days of Sefiras HaOmer to achieve personal refinement based on Rabbi Simon Jacobson’s teachings.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/flyOMA.jpg
+      URL: https://play.google.com/store/apps/details?id=com.centsol.flyoma&hl=en
+      title: flyOMA
+      content: The flyOMA app is the official app of Eppley Airfield and ParkOMA offering real time travel information to make flying in and out of OMA easier than ever.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/Tribalist.jpg
+      URL: https://play.google.com/store/apps/details?id=com.trailerpop.fabric&hl=en
+      title: Tribalist
+      content: Tribalist will be used to create and share your own lists of favorite books, movies, TV shows, restaurants and more to share with the world!
 
     - types: ["MobileApps"]
       image: images/portfolio/JSBank.png
@@ -72,12 +108,12 @@ portfolio:
 
     - types: ["WebDevlopment"]
       image: images/portfolio/YasirERP.jpg
-      URL:
+      URL: http://admin.yaserfactory.com/en/users/sign_in
       title: YASER ERP
       content: A complete ERP solution, which includes features like HRM, Inventory management, sales invoice and quotation management etc.
 
     - types: ["WebDevlopment"]
       image: images/portfolio/Toyota.jpg
-      URL:
+      URL: https://www.toyotaairport.com
       title: Toyota AirPort
       content: A website with content management module. Team worked on both front and backend. Main CRM modules are, accounts, Sales team management, reports and much more.
