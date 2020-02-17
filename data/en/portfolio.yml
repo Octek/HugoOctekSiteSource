@@ -42,9 +42,15 @@ portfolio:
 
     - types: ["MobileApps"]
       image: images/portfolio/Corvis.jpg
-      URL: https://play.google.com/store/apps/details?id=com.ssasoft.corvisapp.dev&hl=tr
+      URL: https://play.google.com/store/apps/details?id=com.ssasoft.corvisapp.dev
       title: CORVIS
       content: A social media app for any other corporate organisations. It includes Voice calls (VOIP), Chat, Directories, Forums and many other features.
+
+    - types: ["MobileApps"]
+      image: images/portfolio/Soneri.jpg
+      URL:  https://play.google.com/store/apps/details?id=com.inov8.sbl.mfs
+      title: Soneri
+      content: A complete suite of transactions is available on the Soneri APP. Which includes Funds transfer, bill payments, Balance Inquiry, Card management etc.
 
     - types: ["MobileApps"]
       image: images/portfolio/Meezan.png
