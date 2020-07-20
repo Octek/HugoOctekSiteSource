@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://octek.co/"
+baseURL = "https://octek.co/"
 title = "Octek"
 theme = "octek-site"
 # post pagination
