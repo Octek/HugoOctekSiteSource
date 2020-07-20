@@ -69,7 +69,7 @@ URL = "plugins/wow/wow.min.js"
 logo = "images/logo.png"
 # Meta data
 description = "This is portfolio site of Octek Pvt Ltd"
-author = "Shahzad hemani"
+author = "Octek"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # post share
@@ -83,19 +83,19 @@ preloader = "images/logo.png"
 ############################# social icons ##########################
 [[params.social_Icon]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/octek"
 
-[[params.social_Icon]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social_Icon]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social_Icon]]
+#icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social_Icon]]
+#icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social_Icon]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/octek-co/?viewAsMember=true"
 
 
 
