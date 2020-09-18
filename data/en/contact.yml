@@ -12,10 +12,10 @@ contact:
 
   contact_Details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "2nd floor, 223 Y, DHA phase 3, Lahore, Pakistan."
-      
+      info : "423 G3, phase 2, Johar town, Lahore, Pakistan."
+
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +92-42-32171723"
-      
+
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@octek.co"
